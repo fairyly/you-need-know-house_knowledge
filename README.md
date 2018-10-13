@@ -83,7 +83,7 @@
 
 ### 6.<a name="为什么每层住宅楼层默认高是在3米左右？">[为什么每层住宅楼层默认高是在 3 米左右？](https://www.zhihu.com/question/19768121)</a>
 
-### 7.<a name="杭州2017年的现房销售政策">杭州2017年的现房销售政策</a>
+### 7.<a name="杭州2017年的现房销售政策">参考杭州2017年的现房销售政策</a>
 
 [现房销售时代，真的来临了吗](http://zzhz.zjol.com.cn/system/2017/05/04/021506056.shtml)
 
@@ -178,7 +178,7 @@
 
 ### 10.<a name="公摊面积">公摊面积</a>
 
-![](attachments/1086212/1246246.png)
+![](https://github.com/houshanren/hangzhou_house_knowledge/raw/master/attachments/1086212/1246246.png)
 
 **公摊面积的计算方法：**
 
