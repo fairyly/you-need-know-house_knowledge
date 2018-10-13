@@ -26,9 +26,9 @@
 
 ### 2.<a name="容积率">[容积率](https://baike.baidu.com/item/%E5%AE%B9%E7%A7%AF%E7%8E%87/1397682?fr=aladdin)</a>
 
-![](attachments/1086212/1246240.png)
+![](https://github.com/houshanren/hangzhou_house_knowledge/raw/master/attachments/1086212/1246240.png)
 
-![](attachments/1086212/1246241.png)
+![](https://github.com/houshanren/hangzhou_house_knowledge/raw/master/attachments/1086212/1246241.png)
 
 ### 3.<a name="买房时定金订金诚意金认筹金区别">[买房时定金 订金 诚意金 认筹金 区别](http://zhishi.fang.com/xf/yt_132181.html)</a>
 <div class="table-wrap"><table class="confluenceTable"><tbody><tr><th class="confluenceTh">分类</th><th class="confluenceTh">定义</th><th class="confluenceTh">是否可以无条件退款</th></tr><tr><td class="confluenceTd">定金</td><td class="confluenceTd">
@@ -75,11 +75,11 @@
 
 ### 4. <a name="绿化率多少合适住宅小区绿化率标准">[绿化率多少合适 住宅小区绿化率标准](http://hf.haoju.cn/news/2095580)</a>
 
-![](attachments/1086212/1246245.png)
+![](https://github.com/houshanren/hangzhou_house_knowledge/raw/master/attachments/1086212/1246245.png)
 
 ### 5.<a name="楼层净高">[楼层净高](https://baike.baidu.com/item/%E6%A5%BC%E5%B1%82%E5%87%80%E9%AB%98/10657207?fr=aladdin)</a>
 
-![](attachments/1086212/1246242.png)
+![](https://github.com/houshanren/hangzhou_house_knowledge/raw/master/attachments/1086212/1246242.png)
 
 ### 6.<a name="为什么每层住宅楼层默认高是在3米左右？">[为什么每层住宅楼层默认高是在 3 米左右？](https://www.zhihu.com/question/19768121)</a>
 
